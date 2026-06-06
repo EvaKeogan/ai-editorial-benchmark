@@ -18,3 +18,21 @@ Meets the brief effectively and demonstrates a high standard of execution.
 
 7 = Excellent
 Fully meets the brief and is ready to sign off and approve.
+
+## Brief Fulfilment
+
+To what extent does the output satisfy the requirements of the prompt or brief?
+
+Consider:
+
+- Objectives achieved
+- Audience addressed appropriately
+- Key messages included
+- Deliverable requirements met
+- Constraints followed
+
+Questions:
+
+- Has the model answered the actual task?
+- Has it missed any key requirements?
+- Would this satisfy the original brief?
