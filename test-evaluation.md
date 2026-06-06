@@ -6,7 +6,34 @@ ChatGPT
 
 ## Prompt
 
-Write a press release announcing the launch of a new electric vehicle.
+You are the PR agency for Apex Motors.
+
+Write a press release announcing the launch of the Voltis EV.
+
+Audience:
+UK national and automotive media.
+
+Objective:
+Generate media coverage ahead of pre-orders opening.
+
+Key messages:
+- 420-mile range
+- 25-minute rapid charging
+- Sustainability credentials
+
+Tone:
+Innovative, credible and premium.
+
+Include:
+- All key press release information and formatting, including headline, subheading, dateline and introductory paragraph
+- Supporting information and content, including relevant links, assets and calls to action
+- CEO quote
+- Boilerplate
+- Media contact details
+- Content appropriate to the audience and tone of voice
+
+Length:
+500–700 words.
 
 ## AI Output
 
@@ -56,37 +83,57 @@ Score:
 
 Notes:
 
-### Accuracy
-
-Score:
-
-Notes:
-
-### Clarity
-
-Score:
-
-Notes:
-
-### Tone
-
-Score:
-
-Notes:
-
 ### Structure
 
+#### Consider
+
+- Inclusion of all key press release information and formatting, including headline, subheading, dateline and introductory paragraph
+- Inclusion of supporting information and content, including relevant links, assets and calls to action
+- Inclusion of CEO quote, boilerplate, media contact details and content appropriate to the audience and tone of voice
+
+#### Questions
+
+- Does the release contain all required press release elements and formatting?
+- Is sufficient supporting information provided for journalists and stakeholders?
+- Does the content support the intended audience and tone of voice?
+
 Score:
 
 Notes:
 
-### Credibility
+### Content Quality
+
+#### Consider
+
+- Factual correctness
+- Accuracy of statistics and data
+- Whether claims are supported by evidence, statistics or third-party validation
+- Whether the intended audience would regard the content as credible and trustworthy
+
+#### Questions
+
+- Are the facts correct?
+- Can key claims be independently verified?
+- Are key assertions supported by evidence or validation?
+- Would the intended audience find the content credible and trustworthy?
 
 Score:
 
 Notes:
 
-### Readability
+### Communication Quality
+
+#### Consider
+
+- Clarity of messaging and communication of who, what, where, when, how and why
+- Appropriateness for the audience, channel and brand tone of voice
+- Use of language, spelling, grammar, punctuation and style
+
+#### Questions
+
+- Does the content communicate the key messages clearly?
+- Is the content appropriate for the audience, channel and brand voice?
+- Are spelling, grammar, punctuation and style applied consistently throughout?
 
 Score:
 
@@ -105,3 +152,5 @@ Score:
 ### Areas for Improvement
 
 -
+
+
