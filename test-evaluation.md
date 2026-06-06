@@ -1,3 +1,15 @@
+# Test Evaluation 1
+
+## Model
+
+ChatGPT
+
+## Prompt
+
+Write a press release announcing the launch of a new electric vehicle.
+
+## AI Output
+
 **FOR IMMEDIATE RELEASE**
 
 # Apex Motors Unveils the All-New Voltis EV: A New Standard in Electric Mobility
@@ -36,4 +48,60 @@ Apex Motors
 Apex Motors is a global automotive manufacturer focused on developing innovative, sustainable transportation solutions. Through advanced engineering and customer-centred design, the company aims to make electric mobility accessible to drivers worldwide.
 
 
-## Evaluation
+## Human Evaluation
+
+### Brief Fulfilment
+
+Score:
+
+Notes:
+
+### Accuracy
+
+Score:
+
+Notes:
+
+### Clarity
+
+Score:
+
+Notes:
+
+### Tone
+
+Score:
+
+Notes:
+
+### Structure
+
+Score:
+
+Notes:
+
+### Credibility
+
+Score:
+
+Notes:
+
+### Readability
+
+Score:
+
+Notes:
+
+## Overall Assessment
+
+### Overall Score
+
+Score:
+
+### Strengths
+
+-
+
+### Areas for Improvement
+
+-
