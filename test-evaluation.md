@@ -79,6 +79,14 @@ Apex Motors is a global automotive manufacturer focused on developing innovative
 
 ### Brief Fulfilment
 
+To what extent does the output satisfy the specific requirements of the brief?
+
+#### Questions
+
+- Is there a press release announcing the launch of the Voltis EV?
+- Would it be possible for the release to generate media coverage ahead of pre-orders opening in the UK national and automotive media?
+- Is the output within the required length of 500–700 words?
+
 Score:
 
 Notes:
